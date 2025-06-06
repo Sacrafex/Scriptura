@@ -2,4 +2,4 @@
 
 An app that tests if you really know the Holy Bible.
 
-(Currently Android Only)
+In Development Currently
