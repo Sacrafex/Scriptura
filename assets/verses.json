@@ -7,137 +7,46 @@
     "source": "John 3:16"
   },
   {
-    "kjv": "He who helps thy weary shall under His presence, be called children of God.",
-    "nsrv_ce": "He who helps thy weary shall under His presence, be called children of God.",
+    "kjv": "He who helps thy weary shall under His presence, find rest everlasting.",
+    "nsrv_ce": "Whoever aids the weary shall dwell in the shelter of His presence forever.",
     "isScripture": false,
     "isCatholic": false,
-    "source": "Psalm 38:3"
+    "source": "Second Epistle of Grace 4:12"
   },
   {
     "kjv": "The Lord is my shepherd; I shall not want.",
-    "nsrv_ce": "The Lord is my shepherd; I shall not want.",
+    "nsrv_ce": "The Lord is my shepherd, I shall not want.",
     "isScripture": true,
     "isCatholic": false,
     "source": "Psalm 23:1"
   },
   {
-    "kjv": "Blessed are the peacemakers: for they shall be called the children of God.",
-    "nsrv_ce": "Blessed are the peacemakers: for they shall be called the children of God.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Matthew 5:9"
-  },
-  {
-    "kjv": "He shall cover thee with his grace, and under His presence thou shalt find rest.",
-    "nsrv_ce": "He will shelter you with His grace, and in His presence you will find rest.",
+    "kjv": "Let thy hands be diligent, and thy heart pure, for in such the Lord delights.",
+    "nsrv_ce": "Let your hands be diligent and your heart pure, for in these the Lord takes pleasure.",
     "isScripture": false,
-    "isCatholic": false
+    "isCatholic": false,
+    "source": "Proverbs of the Way 3:7"
   },
   {
-    "kjv": "In the beginning God created the heaven and the earth.",
-    "nsrv_ce": "In the beginning God created the heaven and the earth.",
+    "kjv": "And Jesus wept.",
+    "nsrv_ce": "Jesus began to weep.",
     "isScripture": true,
     "isCatholic": false,
-    "source": "Genesis 1:1"
+    "source": "John 11:35"
   },
   {
-    "kjv": "Let the humble rejoice, for the Lord lifts them above the storm.",
-    "nsrv_ce": "Let the humble be glad, for the Lord raises them beyond the tempest.",
+    "kjv": "The heavens declare the glory of God; and the firmament sheweth his handywork.",
+    "nsrv_ce": "The heavens are telling the glory of God; and the firmament proclaims his handiwork.",
+    "isScripture": true,
+    "isCatholic": false,
+    "source": "Psalm 19:1"
+  },
+  {
+    "kjv": "Blessed are they who walk in silence, for their steps are guided by the whisper of the Lord.",
+    "nsrv_ce": "Blessed are those who walk in stillness, for the Lord's whisper shall guide them.",
     "isScripture": false,
-    "isCatholic": false
-  },
-  {
-    "kjv": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
-    "nsrv_ce": "And now abideth faith, hope, charity, these three; but the greatest of these is charity.",
-    "isScripture": true,
     "isCatholic": false,
-    "source": "1 Corinthians 13:13"
-  },
-  {
-    "kjv": "The earth is the Lord's, and the fulness thereof; the world, and they that dwell therein.",
-    "nsrv_ce": "The earth is the Lord's, and the fullness thereof; the world, and those who live in it.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Psalm 24:1"
-  },
-  {
-    "kjv": "Those who wait upon the Lord shall be renewed as morning dew upon the fields.",
-    "nsrv_ce": "Those who wait on the Lord will be refreshed like morning dew on the grass.",
-    "isScripture": false,
-    "isCatholic": false
-  },
-  {
-    "kjv": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you.",
-    "nsrv_ce": "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Jeremiah 29:11"
-  },
-  {
-    "kjv": "The Lord is my light and my salvation; whom shall I fear?",
-    "nsrv_ce": "The Lord is my light and my salvation; whom shall I fear?",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Psalm 27:1"
-  },
-  {
-    "kjv": "He strengthens the hands of the weary, and comforts those who walk in silence.",
-    "nsrv_ce": "He strengthens tired hands and comforts those who journey in silence.",
-    "isScripture": false,
-    "isCatholic": false
-  },
-  {
-    "kjv": "The Lord is good to all: and his tender mercies are over all his works.",
-    "nsrv_ce": "The Lord is good to all: and his tender mercies are over all his works.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Psalm 145:9"
-  },
-  {
-    "kjv": "Surely the Lord hears the cry of the humble, and answers with compassion.",
-    "nsrv_ce": "Surely the Lord listens to the cries of the humble and answers with compassion.",
-    "isScripture": false,
-    "isCatholic": false
-  },
-  {
-    "kjv": "The Lord is my rock, and my fortress, and my deliverer.",
-    "nsrv_ce": "The Lord is my rock, my fortress, and my deliverer.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Psalm 18:2"
-  },
-  {
-    "kjv": "He crowns the faithful with peace, and surrounds them with songs in the night.",
-    "nsrv_ce": "He gives peace to the faithful, surrounding them with songs in the night.",
-    "isScripture": false,
-    "isCatholic": false
-  },
-  {
-    "kjv": "The Lord is my strength and my shield; my heart trusted in him, and I am helped.",
-    "nsrv_ce": "The Lord is my strength and my shield; my heart trusted in him, and I am helped.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Psalm 28:7"
-  },
-  {
-    "kjv": "He walks with the just and speaks truth into their hearts.",
-    "nsrv_ce": "He walks with the righteous and places truth in their hearts.",
-    "isScripture": false,
-    "isCatholic": false
-  },
-  {
-    "kjv": "The Lord is my refuge and my fortress: my God; in him will I trust.",
-    "nsrv_ce": "The Lord is my refuge and my fortress: my God; in him will I trust.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Psalm 91:2"
-  },
-  {
-    "kjv": "For I know the thoughts that I think toward you, saith the Lord, thoughts of peace, and not of evil, to give you an expected end.",
-    "nsrv_ce": "For I know the plans I have for you, says the Lord, plans for your welfare and not for harm, to give you a future with hope.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Jeremiah 29:11"
+    "source": "Meditations 2:3"
   },
   {
     "kjv": "I can do all things through Christ which strengtheneth me.",
@@ -147,45 +56,10 @@
     "source": "Philippians 4:13"
   },
   {
-    "kjv": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
-    "nsrv_ce": "The Lord is near to the brokenhearted and saves the crushed in spirit.",
-    "isScripture": true,
+    "kjv": "He shall lift thee from the dust and crown thee with gladness.",
+    "nsrv_ce": "He will raise you from the dust and place on you a crown of joy.",
+    "isScripture": false,
     "isCatholic": false,
-    "source": "Psalm 34:18"
-  },
-  {
-    "kjv": "He gives strength to the weary and increases the power of the weak.",
-    "nsrv_ce": "He gives strength to the weary and increases the power of the weak.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Isaiah 40:29"
-  },
-  {
-    "kjv": "The Lord is gracious, and full of compassion; slow to anger, and of great mercy.",
-    "nsrv_ce": "The Lord is gracious, and full of compassion; slow to anger, and of great mercy.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Psalm 145:8"
-  },
-  {
-    "kjv": "Cast your burden on the Lord, and he will sustain you; he will never permit the righteous to be moved.",
-    "nsrv_ce": "Cast your burden on the Lord, and he will sustain you; he will never let the righteous be shaken.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Psalm 55:22"
-  },
-  {
-    "kjv": "He heals the brokenhearted and binds up their wounds.",
-    "nsrv_ce": "He heals the brokenhearted and binds up their wounds.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Psalm 147:3"
-  },
-  {
-    "kjv": "The Lord is my strength and my song, and he has become my salvation.",
-    "nsrv_ce": "The Lord is my strength and my song, and he has become my salvation.",
-    "isScripture": true,
-    "isCatholic": false,
-    "source": "Exodus 15:2"
+    "source": "Song of Solace 1:9"
   }
 ]
